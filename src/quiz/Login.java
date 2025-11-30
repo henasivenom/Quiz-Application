@@ -31,7 +31,7 @@ public class Login extends JFrame implements ActionListener{
 		tfname.setFont(new Font("Raleman" , Font.BOLD, 20));
 		add(tfname);
 		
-		rules = new JButton("Rules");
+		rules = new JButton("Start Your Test");
 		rules.setBounds(735,270,120,25);
 		rules.setBackground(new Color(30,144,254));
 		rules.setForeground(Color.white);
